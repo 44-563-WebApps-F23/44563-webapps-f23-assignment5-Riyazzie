@@ -2,5 +2,5 @@
 # WebApps-Assignment-5 Starter Code
 ---------
 ## Hosted at
-[My Cities Webpage](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment5-Riyazzie/cities.html)
+[My Cities Webpage](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment5-Riyazzie/)
 
